@@ -2,7 +2,7 @@
 
 The Simplification Theme is seeking expressions of interest from our engineering teams for key roles in our cloud migration program. As part of the recruitment process, we have created an engineering challenge to help you understand the type of work we are undertaking, and for us to understand how well suited you are to that work.
 
-We encourage you to take on this challenge and engineer solutions that showcase your problem solving and engineering capability in the best possible light. We have kept the application context simple to allow you to focus on your infrastructure knowledge, skills and experience and the gotal is to showcase two methods for moving the described appliction to public cloud. 
+We encourage you to take on this challenge and engineer solutions that showcase your problem solving and engineering capability in the best possible light. We have kept the application context simple to allow you to focus on your infrastructure knowledge, skills and experience and the goal is to showcase two methods for moving the described application to public cloud. 
 
 Good luck, and we look forward to seeing your showcase.
 
