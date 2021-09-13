@@ -20,17 +20,17 @@ Relevant Technical Information
 - Database is MariaDB
 - Database credentials - purposely not provided
 - SSH is enabled on the VM
-- Webroot can be accesed through the `htdocs` symlink in the home directory
+- Webroot can be accessed through the `htdocs` symlink in the home directory
 
 Tips
 - Focus on the task at hand, not on the application itself
 
 ### Variations
 
-##### For Enginering Roles at 4.3-4.4 levels
+##### For Engineering Roles at 4.3-4.4 levels
 - Solution the base challenge and showcase outcomes
 
-##### For Enginering Roles at 4.1-4.2 levels
+##### For Engineering Roles at 4.1-4.2 levels
 - Solution the base challenge and showcase outcomes
 - Showcase design of the environment
 - Defend design choices
