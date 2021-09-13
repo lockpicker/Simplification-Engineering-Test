@@ -1,13 +1,19 @@
 ## Simplification Engineering Test
 
-This virtual machine image contains an extremely basic web application which does 2 basic database operations of creating users in a database and reading from the database and displaying information. 
+The Simplification Theme is seeking expressions of interest from our engineering teams for key roles in our cloud migration program. As part of the recruitment process, we have created an engineering challenge to help you understand the type of work we are undertaking, and for us to understand how well suited you are to that work.
 
-The stack for this web application is LAMP and the image is provided by bitnami.
+We encourage you to take on this challenge and engineer solutions that showcase your problem solving and engineering capability in the best possible light. We have kept the application context simple to allow you to focus on your infrastructure knowledge, skills and experience and the gotal is to showcase two methods for moving the described appliction to public cloud. 
+
+Good luck, and we look forward to seeing your showcase.
 
 ###  Base Challenge
 
+The virtual machine image in the repository contains a basic web application which does 2 simple database operations of creating users in a database and reading from the database and displaying information. 
+
+The stack for this web application is LAMP and the image is provided by bitnami.
+
 Your goal is showcase 2 methods of moving this application to public cloud:
-1. Lift and shift - Rehost this application onto either AWS (EC2) or GCP(Compute Engine)
+1. Rehost - Lift and shift this application onto either AWS (EC2) or GCP (Compute Engine)
 2. Replatform / Rearchitect this solution to be cloud native with no IaaS components
 
 Relevant Technical Information
@@ -18,7 +24,7 @@ Relevant Technical Information
     Password: bitnami
     ```
 - Database is MariaDB
-- Database credentials - purposely not provided
+- Database credentials - you should be able to find it
 - SSH is enabled on the VM
 - Webroot can be accessed through the `htdocs` symlink in the home directory
 
