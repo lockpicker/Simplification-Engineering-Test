@@ -38,7 +38,7 @@ Tips
 
 ##### For Engineering Roles at 4.1-4.2 levels
 - Solution the base challenge and showcase outcomes
-- Showcase design of the environment
+- Showcase design of the environment for productionising this solution
 - Defend design choices
 - Showcase engineering best practices and thinking
 
